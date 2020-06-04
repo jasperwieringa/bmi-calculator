@@ -13,7 +13,7 @@ class BmiCalculator extends Component {
       <React.Fragment>
         <h1>BMI Calculator</h1>
         <p>Vul de velden in om je BMI te berekenen</p>
-        <BmiForm />
+        <BmiForm/>
       </React.Fragment>
     )
   }
